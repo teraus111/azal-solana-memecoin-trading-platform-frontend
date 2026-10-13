@@ -151,3 +151,6 @@ Styled with Tailwind CSS
 🎯 For Degens, By Degens - Happy trading! 🚀
 
 This README provides a comprehensive overview of your Solana memecoin trading platform, highlighting its key features, technical stack, and setup instructions. It's structured to be informative for both users and developers who might want to contribute to the project.
+
+## Contact
+Telegram: @teraus111
